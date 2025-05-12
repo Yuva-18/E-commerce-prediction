@@ -1,5 +1,3 @@
-
-
 Linear Regression Model – Ecommerce Customers Analysis
 
 This project uses a Linear Regression model to predict the Yearly Amount Spent by Ecommerce customers based on various features such as Time on App, Time on Website, Length of Membership, and more.
